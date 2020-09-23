@@ -1,0 +1,1 @@
+! ! ! Note: This experiment requires USB data cable for power supply. You need to insert the data cable into the LED:bit matrix expansion board, as shown in the figure below.
